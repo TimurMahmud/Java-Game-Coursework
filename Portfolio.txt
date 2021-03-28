@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <style type="text/css">
+   body{
+      background-color:rgb(50,50,50);
+      color:white
+   }
+   a{
+      color:rgb(210,210,255)
+   }
+   img{
+      margin: 15px 15px 15px 15px
+   }
+   hr{
+      border-top: 1px solid gray;
+   }
+   .infotd{
+     vertical-align:top
+   }
+ </style>
+</head>
+
+<body style="background-color:rgb(50,50,50); color:white">
+<table width= 1000px>
+  <tr>
+    <td class="infotd">
+      <h3>Timur Mahmud</h3>
+      <p> I am a first year City undergraduate with interests in machine learning and AI.	 
+      </p> 
+    </td>
+    <td>
+	
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+	<hr>
+    </td>
+  </tr>
+
+ <tr>
+  <td class="infotd">
+    <h3>Bootcamp 2020: Solar System</h3>
+    <p>
+	
+	
+    </p>
+   
+    <p>
+	
+  	
+    </p>
+
+   
+<td>
+	
+	
+ 
+  <h3>Java Project</h3>
+    <p>
+	My Second java project was to create a game. The process of making the game forced me to learn new concepts and practises regarding java.
+	
+    </p>
+   
+    <video width="100%" height="auto" controls>
+      <source src="JavaMS3Demonstration.mp4" type="video/mp4">
+    </video>
+<tr>
+ <td colspan = 2 align=center>
+	
+ </td>
+</tr>
+ </tr>
+</table>
+</body>
+</html>
